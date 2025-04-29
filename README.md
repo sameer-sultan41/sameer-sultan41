@@ -62,3 +62,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo" />
 </div>
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=sameer-sultan41&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com?user=sameer-sultan41&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-sultan41&theme=dark&hide_border=false&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=sameer-sultan41&icon=0&color=0)](https://visitcount.itsvg.in)
+
